@@ -1,4 +1,3 @@
-import "./App.css";
 import { useState, useEffect, useRef } from "react";
 import LoginComponent from "./components/loginComponent";
 import WhatsappClone from "./components/whatsappClone";
